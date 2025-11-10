@@ -26,4 +26,4 @@
 
 ## PascalScripter
 
-* [Start](pascalscripter/readme.md)
+* [Starten met pascalscripter](pascalscripter/readme.md)

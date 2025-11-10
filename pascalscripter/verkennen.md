@@ -4,6 +4,9 @@ Pascalscripter kun je gebruiken met de leesregel. Je hebt dus JAWS wel nodig. Me
 
 Met de F9 toets start je het programma.
 
+Programma's sla je op met CTRL+S en open je met CTRL+O.
+Het programma sluit he af met ALT+F4
+
 Programma's hebben de volgende vorm
 
 ```
