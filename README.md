@@ -14,6 +14,7 @@
 	* [hoofdstuk 5 strings en lijsten](https://www.leer-scratch.be/hoofdstuk5/)
 * [aan de slag](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
 
+
 ## MicroBit
 
 * [start](https://microbit.org/nl/)
@@ -27,3 +28,10 @@
 ## PascalScripter
 
 * [Starten met pascalscripter](pascalscripter/readme.md)
+
+### Achtergrond
+
+* [SLO, leerlijn digitale geletterdheid po vo](https://www.slo.nl/publish/pages/6124/slo-2018-03-05-leerlijn-digitale-geletterdheid-po-vo.pdf)
+* [po raad, computational thinking in het Nederlandse onderwijs](https://www.poraad.nl/system/files/2018-01/computational_thinking_in_het_nederlandse_onderwijs.pdf)
+* [volgens Bartjens](https://www.volgens-bartjens.nl/media/4/vboo_41_5_hebing_etal_computationalthinking.pdf)
+* [leerlijn Bartimeus v1](background/Leerlijn_Computational_Thinking_Scratch_Microbit.pdf)
