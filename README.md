@@ -2,6 +2,10 @@
 
 [tinyurl.com/dgi4bart](https://edequartel.github.io/DGI/)
 
+## Programma en programmeren
+
+* [stappenplan maken](stappenplan/stappenplan.md)
+
 ## Scratch
 
 * [word scratcher](scratch/scratch_readme.md)
