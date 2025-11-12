@@ -5,6 +5,7 @@
 ## Programma en programmeren
 
 * [stappenplan maken](stappenplan/stappenplan.md)
+	* [pindakaas](https://youtu.be/waP5vkMaYjg)
 
 ## Scratch
 
@@ -39,3 +40,4 @@
 * [po raad, computational thinking in het Nederlandse onderwijs](https://www.poraad.nl/system/files/2018-01/computational_thinking_in_het_nederlandse_onderwijs.pdf)
 * [volgens Bartjens](https://www.volgens-bartjens.nl/media/4/vboo_41_5_hebing_etal_computationalthinking.pdf)
 * [leerlijn Bartimeus v1](background/Leerlijn_Computational_Thinking_Scratch_Microbit.pdf)
+* [roadmap](background/Computational_thinking_roadmap_nl.pdf)
