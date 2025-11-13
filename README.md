@@ -34,6 +34,10 @@
 
 * [Starten met pascalscripter](pascalscripter/readme.md)
 
+## Beoordeling
+
+* [Beoordelings-tabel](background/rubric.md)
+
 ### Achtergrond
 
 * [SLO, leerlijn digitale geletterdheid po vo](https://www.slo.nl/publish/pages/6124/slo-2018-03-05-leerlijn-digitale-geletterdheid-po-vo.pdf)
