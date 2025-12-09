@@ -19,6 +19,10 @@
 	* [hoofdstuk 5 strings en lijsten](https://www.leer-scratch.be/hoofdstuk5/)
 * [aan de slag](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
 
+## HTML
+ 
+ * [les 1 - basis](html/les1.md)
+
 
 ## MicroBit
 
