@@ -48,6 +48,7 @@ Voorbeeld:
 </html>
 
 
+
 ⸻
 
 🎧 Uitleg
@@ -68,4 +69,7 @@ Maak zelf een pagina met:
 	•	één <h2> ondertitel
 	•	twee paragrafen
 	•	één link
+	
+```
+	
 
