@@ -38,6 +38,10 @@
 
 * [Starten met pascalscripter](pascalscripter/readme.md)
 
+## Spike
+
+* [Lessen Spike](spike/README.md)
+
 ## Beoordeling
 
 * [Beoordelings-tabel](background/rubric.md)
