@@ -190,6 +190,7 @@ Bespreek:
 # Extra opdracht
 
 Kun jij:
+
 - een bewegende animatie maken?
 - een aftelling tonen?
 - een geheim bericht laten scrollen?
