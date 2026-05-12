@@ -2,7 +2,7 @@
 # Aansluiten en Werken met de LED’s
 
 Website:
-https://spike.legoeducation.com/
+[https://spike.legoeducation.com/](https://spike.legoeducation.com/)
 
 ## Doel van de les
 
