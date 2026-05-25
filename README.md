@@ -40,6 +40,7 @@
 
 ## Spike
 
+* [Lesdoelen](spike/lesdoelen.md)
 * [Lessen Spike](spike/README.md)
 
 ## Beoordeling
