@@ -1,196 +1,111 @@
-# LEGO SPIKE Prime – Les 1
-# Aansluiten en Werken met de LED’s
-
-Website:
-[https://spike.legoeducation.com/](https://spike.legoeducation.com/)
-
-## Doel van de les
-
-- SPIKE Prime leren aansluiten
-- De hub leren gebruiken
-- Werken met de LED-matrix
-- Een eerste eenvoudig programma maken
-
-## Tijd
-
-45–60 minuten
-
-## Benodigdheden
-
-- LEGO SPIKE Prime-set
-- Laptop of tablet
-- SPIKE-app
-- Opgeladen hub
-- USB-kabel
+# LEGO SPIKE Prime – Introductieles
+## 2 lesuren
 
 ---
 
-# Wat leren we vandaag?
+# Lesuur 1 – Kennismaken met SPIKE Prime
 
-Vandaag leren we:
+## Leerdoelen
 
-- de hub aansluiten
-- verbinding maken
-- een programma starten
-- lichtjes en afbeeldingen tonen op de hub
+- Weten wat SPIKE Prime is
+- Onderdelen herkennen
+- Samenwerken
 
----
+## Activiteiten
 
-# Stap 1 – De onderdelen bekijken
+### Introductie
 
-Zoek deze onderdelen:
+Klassengesprek:
 
-- Hub
-- USB-kabel
-- Grote motor
-- Sensor
-- LEGO-onderdelen
-
-## Bespreek
-
-- Waar zit de aan-knop?
-- Waar zie je de lampjes?
-- Wat denk je dat de hub doet?
+- Wat is een robot?
+- Waar worden robots gebruikt?
+- Wat kun je programmeren?
 
 ---
 
-# Stap 2 – De hub aanzetten
+### Onderdelen bekijken
 
-1. Houd de aan-knop ingedrukt.
-2. Wacht tot de hub opstart.
-3. Kijk naar de lichtjes.
-
-## Opdracht
-
-Welke kleuren zie je?
-
----
-
-# Stap 3 – SPIKE-app openen
-
-1. Open de SPIKE-app.
-2. Maak een nieuw project.
-3. Kies “woordblokken”.
-
----
-
-# Stap 4 – Verbinding maken
-
-1. Klik op verbinden.
-2. Kies de juiste hub.
-3. Wacht op Bluetooth-verbinding.
-
-## Controle
-
-De hub is verbonden wanneer:
-- het Bluetooth-logo zichtbaar is
-- de app verbinding toont
-
----
-
-# Stap 5 – Eerste LED-programma
-
-## Opdracht
-
-Laat een afbeelding verschijnen.
-
-## Stappen
-
-1. Zoek het blok:
-   - “toon afbeelding”
-2. Sleep het blok in het programma.
-3. Kies een afbeelding.
-4. Druk op start.
-
----
-
-# Stap 6 – Zelf afbeeldingen proberen
-
-Probeer:
-
-- blij gezicht
-- hartje
-- pijl
-- muzieknoot
-
-## Extra
-
-Verander:
-- helderheid
-- afbeelding
-- volgorde
-
----
-
-# Stap 7 – Tekst tonen
-
-## Opdracht
-
-Laat je naam scrollen op de hub.
-
-## Stappen
-
-1. Zoek het blok:
-   - “toon tekst”
-2. Typ je naam.
-3. Start het programma.
-
----
-
-# Stap 8 – Eigen lichtshow maken
-
-Maak een programma met:
-
-- meerdere afbeeldingen
-- tekst
-- pauzes
-- verschillende effecten
-
-Voorbeeld:
-- hart
-- smiley
-- je naam
-- muziekicoon
-
----
-
-# Challenge
-
-Maak een “welkom-programma”.
-
-Het programma moet:
-- beginnen met een afbeelding
-- daarna tekst tonen
-- eindigen met een andere afbeelding
-
----
-
-# Reflectie
-
-Bespreek:
-
-- Hoe maak je verbinding?
-- Wat doet de hub?
-- Welke afbeelding vond je het leukst?
-- Hoe start je een programma?
-
----
-
-# Begrippen
+Leerlingen bekijken:
 
 - hub
-- Bluetooth
-- LED-matrix
-- programma
-- blokken
-- verbinding
+- motor
+- sensor
+- kabels
 
 ---
 
-# Extra opdracht
+### Verkennen van SPIKE
 
-Kun jij:
+Leerlingen:
 
-- een bewegende animatie maken?
-- een aftelling tonen?
-- een geheim bericht laten scrollen?
+- sluiten de hub aan;
+- openen de SPIKE app;
+- ontdekken de programmeerblokken.
+
+---
+
+## Afsluiting
+
+Bespreken:
+
+- Wat heb je ontdekt?
+- Wat vond je interessant?
+
+---
+
+# Lesuur 2 – Eerste programma’s
+
+## Leerdoelen
+
+- Programmeren starten
+- Motoren aansturen
+- Testen en verbeteren
+
+## Activiteiten
+
+### Uitleg programmeren
+
+Uitleg over:
+
+- startblok
+- motorblok
+- wachten
+- stoppen
+
+---
+
+### Programmeren
+
+Leerlingen maken eenvoudige programma’s:
+
+- motor laten draaien;
+- motor sneller/langzamer;
+- geluid afspelen;
+- lichtkleur veranderen.
+
+---
+
+### Testen
+
+Leerlingen testen hun programma’s en passen deze aan.
+
+---
+
+## Afsluiting
+
+Leerlingen demonstreren hun programma.
+
+Bespreken:
+
+- Wat werkte goed?
+- Wat was moeilijk?
+
+---
+
+# Benodigdheden
+
+Per tweetal:
+
+- LEGO SPIKE Prime set
+- Laptop of iPad
+- SPIKE app
